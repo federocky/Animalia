@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
             ],
             "scripts": []
           },
@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "animalia"
+  "defaultProject": "animalia",
+  "cli": {
+    "analytics": false
+  }
 }
